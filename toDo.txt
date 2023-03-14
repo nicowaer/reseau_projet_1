@@ -1,0 +1,15 @@
+a faire:
+
+    Possibilitées de connection:
+        -ethernet
+        -wifi
+        -4g
+    Possibilitées de comunication:
+        -vidéo + audio
+        -vidéo sans audio
+        -audio
+        -sans audio ni vidéo
+        -bluetooth
+    Possibilitées de plateformes:
+        -Web
+        -Application (smartphone ou pc)
