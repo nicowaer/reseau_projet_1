@@ -1,5 +1,6 @@
 a faire:
-
+    Passer l'appel ou recevoir l'appel
+    
     Possibilitées de connection:
         -ethernet
         -wifi
