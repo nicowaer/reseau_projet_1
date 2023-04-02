@@ -2,15 +2,18 @@ a faire:
     Passer l'appel ou recevoir l'appel
     
     Possibilitées de connection:
-        -ethernet
+        -ethernet (pas sur de le faire)
         -wifi
         -4g
+        -si on a le temps et qu'on a fait tout le reste: partage de connections
+        -même réseau wifi
     Possibilitées de comunication:
         -vidéo + audio
         -vidéo sans audio
         -audio
-        -sans audio ni vidéo
-        -bluetooth
+        -messages
+        -messages vocaux
+        -photos/ vidéos par messages
+        -appel de groupe
     Possibilitées de plateformes:
-        -Web
-        -Application (smartphone ou pc)
+        -Application (pc)
