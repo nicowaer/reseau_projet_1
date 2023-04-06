@@ -9,8 +9,8 @@ aud =  []
 vid = []
 for i in range(1,4):
 
-    str1 = "Analyse_debit/audio{}.pcap".format(i)
-    str2 = "Analyse_debit/video{}.pcap".format(i)
+    str1 = "Analyse_debit_pas_meme_wifi/audio{}.pcap".format(i)
+    str2 = "Analyse_debit_pas_meme_wifi/video{}.pcap".format(i)
     cap_aud = pyshark.FileCapture(str1)
     cap_vid = pyshark.FileCapture(str2)
 
