@@ -32,10 +32,10 @@ x_labels = ['audio', 'video']
 
 x = np.arange(len(x_labels))
 
-plt.bar('audio même wifi', mean_audio, label='Appel audio sur même réseau wifi')
-plt.bar('audio', mean_audio2, label='Appel audio sur réseau wifi different', color='aqua')
-plt.bar('video même wifi', mean_video, label='Appel vidéo sur même réseau wifi', color='r')
-plt.bar('vidéo', mean_video2, label='Appel vidéo sur réseau wifi different', color='darkorange')
+plt.bar('audio même Wi-Fi', mean_audio, label='Appel audio sur même réseau Wi-Fi')
+plt.bar('audio', mean_audio2, label='Appel audio sur réseau Wi-Fi different', color='aqua')
+plt.bar('video même Wi-Fi', mean_video, label='Appel vidéo sur même réseau Wi-Fi', color='r')
+plt.bar('vidéo', mean_video2, label='Appel vidéo sur réseau Wi-Fi different', color='darkorange')
 plt.title("Débit en fonction de type d'appel")
 plt.legend()
 
