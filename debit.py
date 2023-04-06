@@ -34,7 +34,7 @@ meand_data_rates = np.convolve(data_rates, np.ones(window_size)/window_size, mod
 mean_times = arr[window_size - 1:]
 
 plt.plot(mean_times, meand_data_rates)
-plt.ylabel('Meand Data Rate (bytes/s)')
+plt.ylabel('Mean Data Rate (bytes/s)')
 plt.xlabel('Time (seconds)')
 plt.title("Débit en fonction du temps")
 plt.savefig("Debit en fonction du temps.pdf")
